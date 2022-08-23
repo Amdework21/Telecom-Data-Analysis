@@ -1,0 +1,4 @@
+Type /canva create to start a new design
+• Type /canva settings to update your notification preferences
+• Type /canva disconnect to unlink your Canva account from Slack
+• Type /canva help to see these tips again
