@@ -1,6 +1,6 @@
 # telecom-user-analytics
 
-![telecom](https://call4free.co.uk/wp-content/uploads/2020/04/Backgrond-of-About-Us.jpg)
+![telecom](https://th.bing.com/th/id/OIP.dz8OdATUuwAJscDnd-hvlwHaEf?pid=ImgDet&rs=1)
 
 This project will answer the questions:
 
@@ -21,16 +21,16 @@ This project will answer the questions:
 You can run the dashboard using docker:
 
 ```bash
-docker pull abelblue/tele_image:1.0
-docker run abelblue/tele_image:1.0
+docker pull Amdeworkk21/tele_image:1.0
+docker run Amdeworkk21/tele_image:1.0
 ```
 
-## Installation for linux
+## Installation for Windows
 
 ```bash
-git clone https://github.com/Abel-Blue/telecom-user-analytics.git
-cd telecom-user-analytics
-sudo python3 setup.py install
+git clone https://github.com/Amdework21/Telecom-Data-Analysis.git
+cd Telecom-Data-Analysis
+pit install setup.py
 ```
 ## Data visualization link
 [visualization link](https://amdework21-telecom-data-analysis-app-62wtq3.streamlitapp.com/)
