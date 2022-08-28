@@ -30,7 +30,7 @@ docker run Amdeworkk21/tele_image:1.0
 ```bash
 git clone https://github.com/Amdework21/Telecom-Data-Analysis.git
 cd Telecom-Data-Analysis
-pit install setup.py
+pip install setup.py
 ```
 ## Data visualization link
 [visualization link](https://amdework21-telecom-data-analysis-app-62wtq3.streamlitapp.com/)
