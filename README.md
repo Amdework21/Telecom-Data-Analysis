@@ -33,4 +33,4 @@ cd telecom-user-analytics
 sudo python3 setup.py install
 ```
 ## Data visualization link
-[visualization link](https://share.streamlit.io/abel-blue/telecom-user-analytics/main/app.py)
+[visualization link](https://amdework21-telecom-data-analysis-app-62wtq3.streamlitapp.com/)
