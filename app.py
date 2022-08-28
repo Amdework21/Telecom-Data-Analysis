@@ -22,6 +22,7 @@ app.add_app("user_engagement", user_engagement.app)
 app.add_app("experience_analytics", experience_analytics.app)
 app.add_app("satisfaction_analysis", satisfaction_analysis.app)
 app.add_app("Model", model.app)
+#app.add_app("Developed by Amdework A.", "Name: Amdework Asefa")
 
 # The main app
 app.run()
